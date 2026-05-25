@@ -1,14 +1,14 @@
 # Terms of Service for Commercial
 
-**Last updated:** May 24, 2026 · Viral Builders LLC · viralbuildersllc@gmail.com
+**Last updated:** May 24, 2026 · Viral Builders · viralbuildersllc@gmail.com
 
 *See also: [Privacy Policy](https://iansidman.com/commercials/privacy/) · [Support](https://iansidman.com/commercials/support/)*
 
-Hey — thanks for using Commercial. The app is made by Viral Builders LLC, which is me (Ian) and a small team. These Terms cover what you're agreeing to when you use the app. I've tried to write them like a person, with the legal parts kept tight enough to actually matter. By installing or using Commercial, you agree to what's below. If you don't, no hard feelings — just don't use it.
+Hey — thanks for using Commercial. The app is made by Viral Builders, which is me (Ian) and a small team. These Terms cover what you're agreeing to when you use the app. I've tried to write them like a person, with the legal parts kept tight enough to actually matter. By installing or using Commercial, you agree to what's below. If you don't, no hard feelings — just don't use it.
 
 ## 1. Who we are
 
-Viral Builders LLC. Contact: viralbuildersllc@gmail.com.
+Viral Builders. Contact: viralbuildersllc@gmail.com.
 
 ## 2. License
 
@@ -79,7 +79,7 @@ If your use of Commercial — or how you use what the app blocks or unblocks —
 
 **Please read this — it changes how you'd take us to court if something went really wrong.**
 
-(a) **Arbitration instead of court.** If we ever have a dispute, you and Viral Builders LLC agree to handle it through binding individual arbitration with the American Arbitration Association under their Consumer Arbitration Rules — in Los Angeles County, California, or remotely. Either of us can still take small-claims court individually if we want.
+(a) **Arbitration instead of court.** If we ever have a dispute, you and Viral Builders agree to handle it through binding individual arbitration with the American Arbitration Association under their Consumer Arbitration Rules — in Los Angeles County, California, or remotely. Either of us can still take small-claims court individually if we want.
 
 (b) **No class actions.** Claims are individual only — no class actions, no representative proceedings, no consolidating with other people's claims. (This is the standard protection apps use to avoid mass lawsuits.)
 
@@ -123,5 +123,5 @@ If any part of these Terms doesn't hold up legally, the rest still applies. If w
 
 ## 18. Get in touch
 
-**Viral Builders LLC**
+**Viral Builders**
 viralbuildersllc@gmail.com
