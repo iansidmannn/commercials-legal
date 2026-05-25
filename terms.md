@@ -4,7 +4,7 @@
 
 *See also: [Privacy Policy](https://iansidman.com/commercials/privacy/) · [Support](https://iansidman.com/commercials/support/)*
 
-Hey — thanks for using Commercial. The app is made by Viral Builders, which is me (Ian) and a small team. These Terms cover what you're agreeing to when you use the app. I've tried to write them like a person, with the legal parts kept tight enough to actually matter. By installing or using Commercial, you agree to what's below. If you don't, no hard feelings — just don't use it.
+Hey — thanks for using Commercial. The app is made by Viral Builders, a small independent shop. These Terms cover what you're agreeing to when you use the app. We've tried to write them like a person, with the legal parts kept tight enough to actually matter. By installing or using Commercial, you agree to what's below. If you don't, no hard feelings — just don't use it.
 
 ## 1. Who we are
 
