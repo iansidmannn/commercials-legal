@@ -1,4 +1,4 @@
-# Commercials — Legal
+# Commercial — Legal
 
 - [Privacy Policy](privacy.html)
 - [Terms of Service](terms.html)

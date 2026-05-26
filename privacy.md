@@ -1,12 +1,12 @@
-# Privacy Policy for Commercials
+# Privacy Policy for Commercial
 
 **Last updated:** May 6, 2026
 
-This Privacy Policy explains how the **Commercials** mobile application ("the App," "we," "us") handles your information.
+This Privacy Policy explains how the **Commercial** mobile application ("the App," "we," "us") handles your information.
 
 ## Who we are
 
-Commercials is developed by **Ian Sidman** ("the developer"). You can reach us at **iansidman@gmail.com**.
+Commercial is developed by **Viral Builders** ("the developer"). You can reach us at **viralbuildersllc@gmail.com**.
 
 ## TL;DR
 
@@ -16,7 +16,7 @@ Commercials is developed by **Ian Sidman** ("the developer"). You can reach us a
 
 ## What information we collect
 
-**Information you provide to us:** None. Commercials does not have user accounts, sign-up, or any forms.
+**Information you provide to us:** None. Commercial does not have user accounts, sign-up, or any forms.
 
 **Information collected automatically by third parties:**
 
@@ -47,14 +47,14 @@ We do not sell your information. The only third party receiving data is **Google
 
 ## Your choices and rights
 
-- **Tracking:** You can deny tracking at any time via Settings → Privacy & Security → Tracking → Commercials. Ads will still serve, but they will be non-personalized and lower paying.
-- **Deletion:** Uninstalling Commercials from your device removes all locally stored data, including your blocked-apps list.
+- **Tracking:** You can deny tracking at any time via Settings → Privacy & Security → Tracking → Commercial. Ads will still serve, but they will be non-personalized and lower paying.
+- **Deletion:** Uninstalling Commercial from your device removes all locally stored data, including your blocked-apps list.
 - **AdMob:** You can manage Google ad preferences at [adssettings.google.com](https://adssettings.google.com).
-- **California, EEA, UK residents:** You have additional rights under your local laws (access, deletion, correction, portability, opt-out of "sale" or "sharing" — note we don't sell or share data outside what's described above). Contact iansidman@gmail.com to exercise any right.
+- **California, EEA, UK residents:** You have additional rights under your local laws (access, deletion, correction, portability, opt-out of "sale" or "sharing" — note we don't sell or share data outside what's described above). Contact viralbuildersllc@gmail.com to exercise any right.
 
 ## Children
 
-Commercials is not directed to children under 13. We do not knowingly collect data from anyone under 13. If you believe a child has used the App, contact us and we will help.
+Commercial is not directed to children under 13. We do not knowingly collect data from anyone under 13. If you believe a child has used the App, contact us and we will help.
 
 ## Security
 
@@ -68,5 +68,5 @@ We may update this Privacy Policy from time to time. Material changes will be re
 
 Questions, requests, or complaints:
 
-**Ian Sidman**
-iansidman@gmail.com
+**Viral Builders**
+viralbuildersllc@gmail.com
